@@ -77,4 +77,4 @@ Werkzeug==1.0.1
 whitenoise==5.2.0
 wrapt==1.12.1
 xhtml2pdf==0.2.4
-zope.interface==4.3.3
+
